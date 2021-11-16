@@ -15,3 +15,4 @@ python SPARK_finder.py
 
 
 ### References
+Héctor Montero, Tak Lee, Boas Pucker, Gabriel Ferreras-Garrucho, Giles Oldroyd, Samuel F. Brockington, Akio Miyao, Uta Paszkowski. A mycorrhiza-associated receptor-like kinase with an ancient origin in the green lineage. Proceedings of the National Academy of Sciences Jun 2021, 118 (25) e2105281118; DOI: [10.1073/pnas.2105281118](https://doi.org/10.1073/pnas.2105281118)
